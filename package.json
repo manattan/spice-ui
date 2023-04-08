@@ -1,0 +1,16 @@
+{
+  "name": "spice-ui",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook dev --port 6006"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^7.0.2",
+    "@storybook/addon-controls": "^7.0.2",
+    "@storybook/addon-docs": "^7.0.2",
+    "@storybook/addon-measure": "^7.0.2",
+    "@storybook/addon-outline": "^7.0.2",
+    "@storybook/vue3-vite": "^7.0.2",
+    "storybook": "^7.0.2"
+  }
+}
