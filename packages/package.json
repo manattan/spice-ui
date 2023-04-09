@@ -1,7 +1,7 @@
 {
   "name": "@manattan/spice-ui",
-  "description": "spice design system",
-  "version": "0.0.5",
+  "description": "Spice UI design system",
+  "version": "0.0.6",
   "files": [
     "dist"
   ],
