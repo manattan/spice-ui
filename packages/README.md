@@ -5,3 +5,18 @@
 This design system provides distinctive styles and components that serve as accents to your projects, enhancing the user experience much like how spices elevate a dish. By utilizing Spice UI, your product design becomes more appealing and pleasant, offering users a fresh surprise and invigorating energy.
 
 With Spice UI, design and development become integrated, creating a unique and beautiful user interface like the fusion of spices that produce a flavorful dish. Embrace this distinctive spice-like essence and elevate your project to the next level.
+
+## get started
+
+### build
+
+```
+> npm run build
+```
+
+### deploy
+
+```
+> npm version x.x.x
+> npm publish
+```
